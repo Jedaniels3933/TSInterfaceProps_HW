@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    background-color: aquamarine;
+    font-size: 50px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-shadow: 0svi 0px 3px black;
+    
+
+
+
+}
+
+div{
+    color: blue;
+    background-color: yellow;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-shadow: 0svi 0px 3px black;
+
+}
