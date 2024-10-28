@@ -55,3 +55,6 @@ Successful integration of the Card component in the main application with variou
 
 
 Thank you for either reading and/or grading this assignment. 
+
+
+https://github.com/Jedaniels3933/TSInterfaceProps_HW/blob/main/README.md
